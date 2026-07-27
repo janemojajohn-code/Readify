@@ -1,0 +1,8 @@
+{
+  "appId": "com.readflow.ai",
+  "appName": "ReadFlow AI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
